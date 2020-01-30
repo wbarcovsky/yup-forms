@@ -1,0 +1,15 @@
+{
+  "name": "yup-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "yup": "^0.28.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.1",
+    "@types/yup": "^0.26.29",
+    "jest": "^25.1.0",
+    "typescript": "^3.7.5"
+  }
+}
